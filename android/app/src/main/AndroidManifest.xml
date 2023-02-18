@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="appshopbd.ukti_app.ukti_app">
    <application
-        android:label="ukti_app"
+        android:label="উক্তি"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
